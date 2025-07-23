@@ -1,11 +1,11 @@
 #include "GameScene.h"
 #include "KamataEngine.h"
+#include "MT.h"
 #include <cassert>
 #include <cmath>
 #include <fstream>
 #include <json.hpp>
 #include <string>
-#include "MT.h"
 
 using namespace KamataEngine;
 
